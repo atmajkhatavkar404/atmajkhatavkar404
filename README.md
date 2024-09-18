@@ -4,7 +4,9 @@
 <h2 align="center">Profiles</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/Atmaj-Khatavkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://instagram.com/404.mr.error">
+  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <h2 align="center">Certifications</h2>
 <p align="center">
 <a href="https://www.credly.com/badges/5e9f1046-98bb-4025-b26e-504709614d35"><img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" height="100"></a>
