@@ -16,3 +16,6 @@
 <p align="center">
 
   <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=111111&style=for-the-badge&logo=linux"/>
+
+<h2 align="center">Skills</h2>
+Cybersecurity Engineer || Bug Hunter || Penetration Tester ||Ethical Hacker || Deep and DarkWeb Researcher.
