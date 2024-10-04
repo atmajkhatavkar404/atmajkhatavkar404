@@ -17,7 +17,7 @@
 <h2 align="center">Technologies</h2>
 <p align="center">
 
-  <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=111111&style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux"/>
  <img src="https://img.shields.io/badge/Kali-05122A?style=flat?&logo=kalilinux&logoColor=557C94"/>
  <img src="https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420"/>
 
