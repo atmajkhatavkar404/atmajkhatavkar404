@@ -18,7 +18,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=111111&style=for-the-badge&logo=linux"/>
-  ![Kali](https://img.shields.io/badge/Kali-05122A?style=flat?&logo=kalilinux&logoColor=557C94)&nbsp;
+ <img src="https://img.shields.io/badge/Kali-05122A?style=flat?&logo=kalilinux&logoColor=557C94"/>
 
 <h2 align="center">Skills</h2>
 Cybersecurity Engineer || Bug Hunter || Penetration Tester || Ethical Hacker || Deep and DarkWeb Researcher.
