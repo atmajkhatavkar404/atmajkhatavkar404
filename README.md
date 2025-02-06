@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/Atmaj-Khatavkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/atmajkhatavkar404">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rbnbgzQxrANBUxOGYPBMRAHaB3%26pid%3DApi&f=1&ipt=eccd594a34efc20e27d876915621869111723806d334de2ae245c39bc4aea0ee&ipo=images"/>
   </a>
 </a>
 <h2 align="center">Certifications</h2>
