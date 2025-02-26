@@ -24,4 +24,6 @@
  <img src="https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420"/>
 
 <h2 align="center">Skills</h2>
-Cybersecurity Engineer || Bug Hunter || Penetration Tester || Ethical Hacker || Deep and DarkWeb Researcher.
+Bug Hunting 
+Ethical Hacking 
+Deep and DarkWeb 
