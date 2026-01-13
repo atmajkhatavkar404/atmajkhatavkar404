@@ -16,6 +16,7 @@
 <a href="https://www.credly.com/badges/3606befd-90a6-421a-ae84-de33b55bbf29"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/4aadd9b1-83f0-4ac6-a293-dcc25c1bd8d2"><img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" height="100"></a>
 <a href="https://certificates.picussecurity.org/en/verify/07038056131364?ref=email"><img src="https://api-lb.appfurther.io/v2/ims/image/07038056131364" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/9a0d52a4-ea21-4d29-9847-ef45999f63f8/public_url"><img src="https://images.credly.com/size/220x220/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" height="100"></a>
 
 <h2 align="center">Technologies</h2>
 <p align="center">
